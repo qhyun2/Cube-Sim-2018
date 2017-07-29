@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1484244039 source:h:\documents\computer science\project\unit 4\cube sim 2018\main.cpp
+	<iostream>
+	<cctype>
+	"hao.h"
+	"ConsoleOutput.h"
+	"CubeState.h"
+
+1483970296 h:\documents\computer science\project\unit 4\cube sim 2018\hao.h
+	<cmath>
+	<ctype.h>
+
+1482287672 source:c:\users\hao\desktop\cube sim 2018\main.cpp
+	<iostream>
+	"hao.h"
+	"ConsoleOutput.h"
+
+1479245086 c:\users\hao\desktop\cube sim 2018\hao.h
+	<cmath>
+	<ctype.h>
+
+1482287968 source:c:\users\hao\desktop\cube sim 2018\src\consoleoutput.cpp
+	"ConsoleOutput.h"
+
+1482282533 c:\users\hao\desktop\cube sim 2018\include\consoleoutput.h
+	<iostream>
+	<fstream>
+	<windows.h>
+
+1484069764 h:\documents\computer science\project\unit 4\cube sim 2018\include\consoleoutput.h
+	<iostream>
+	<fstream>
+	<windows.h>
+
+1484069764 source:h:\documents\computer science\project\unit 4\cube sim 2018\src\consoleoutput.cpp
+	"ConsoleOutput.h"
+
+1485219402 source:c:\users\hao\desktop\cs\cube sim 2018\src\consoleoutput.cpp
+	"ConsoleOutput.h"
+
+1485225497 c:\users\hao\desktop\cs\cube sim 2018\include\consoleoutput.h
+	<iostream>
+	<windows.h>
+
+1485225687 source:c:\users\hao\desktop\cs\cube sim 2018\main.cpp
+	<iostream>
+	<cctype>
+	<vector>
+	"hao.h"
+	"ConsoleOutput.h"
+	"CubeState.h"
+	"IOHandler.h"
+
+1485225439 c:\users\hao\desktop\cs\cube sim 2018\hao.h
+
+1485225476 c:\users\hao\desktop\cs\cube sim 2018\include\cubestate.h
+
+1485225668 source:c:\users\hao\desktop\cs\cube sim 2018\src\cubestate.cpp
+	"CubeState.h"
+
+1483970296 source:h:\downloads\cs\cs\cube sim 2018\main.cpp
+	<iostream>
+	<cctype>
+	"hao.h"
+	"ConsoleOutput.h"
+	"CubeState.h"
+
+1483970296 h:\downloads\cs\cs\cube sim 2018\hao.h
+	<cmath>
+	<ctype.h>
+
+1483970297 h:\downloads\cs\cs\cube sim 2018\include\consoleoutput.h
+	<iostream>
+	<fstream>
+	<windows.h>
+
+1483970297 h:\downloads\cs\cs\cube sim 2018\include\cubestate.h
+
+1483970297 source:h:\downloads\cs\cs\cube sim 2018\src\consoleoutput.cpp
+	"ConsoleOutput.h"
+
+1483970297 source:h:\downloads\cs\cs\cube sim 2018\src\cubestate.cpp
+	"CubeState.h"
+	<iostream>
+
+1484071479 h:\documents\computer science\project\unit 4\cube sim 2018\include\cubestate.h
+
+1484332935 source:h:\documents\computer science\project\unit 4\cube sim 2018\src\cubestate.cpp
+	"CubeState.h"
+	<iostream>
+	<windows.h>
+
+1485225594 c:\users\hao\desktop\cs\cube sim 2018\include\iohandler.h
+	<iostream>
+	<vector>
+	<fstream>
+	<windows.h>
+
+1485225581 source:c:\users\hao\desktop\cs\cube sim 2018\src\iohandler.cpp
+	"IOHandler.h"
+
